@@ -1,0 +1,32 @@
+{
+  "august": {
+    "name":"August Kristian Gjede",
+    "mail":"august@kvalifik.dk",
+    "title":"Co-founder & Managing Partner",
+    "cell":"+ 45 3156 5902"
+  },
+  "daniel": {
+    "name":"Daniel Riegels",
+    "mail":"daniel@kvalifik.dk",
+    "title":"Board member & Co-founder",
+    "cell":"+ 45 3137 8930"
+  },
+  "nikolaj": {
+    "name":"Nikolaj von Holck",
+    "mail":"nikolaj@kvalifik.dk",
+    "title":"Tech Lead",
+    "cell":"+ 45 2076 3336"
+  },
+  "riziki": {
+    "name":"Riziki Nielsen",
+    "mail":"riziki@kvalifik.dk",
+    "title":"UX Designer & Awesome",
+    "cell":"+ 45 2885 7708"
+  },
+  "soren": {
+    "name":"Søren Højland Boesen",
+    "mail":"soren@kvalifik.dk",
+    "title":"Managing partner",
+    "cell":"+ 45 2227 5572"
+  }
+}
