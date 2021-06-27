@@ -1,11 +1,11 @@
 {
   "code-conf-2019": {
-    "title": "CoDe-Conf 2019",
+    "name": "CoDe-Conf 2019",
     "target": "https://www.eficode.com/events/code-conf-2019?utm_source=mail-banner&utm_campaign=code-conf-2019",
     "graphic":"http://code.praqma.com/mailsignature/banners/code-conf-2019.png"
   },
   "academy-2019": {
-    "title": "Summer Academy 2019",
+    "name": "Summer Academy 2019",
     "target": "https://www.praqma.com/stories/code-academy-summer2019/?utm_source=mail-banner&utm_campaign=summer-academy-2019",
     "graphic":"http://code.praqma.com/mailsignature/banners/academy-summer-2019.png"
   }
