@@ -1,4 +1,10 @@
 {
+  "andre": {
+    "name":"André Klee",
+    "mail":"andre@kvalifik.dk",
+    "title":"Full Stack Developer",
+    "cell":"+ 45 2818 4007"
+  },
   "august": {
     "name":"August Kristian Gjede",
     "mail":"august@kvalifik.dk",
@@ -11,17 +17,35 @@
     "title":"Board member & Co-founder",
     "cell":"+ 45 3137 8930"
   },
+  "cannelle": {
+    "name":"Cannelle Lacroix",
+    "mail":"cannelle@kvalifik.dk",
+    "title":"Design intern",
+    "cell":"+33 667 65 25 38"
+  },
   "lars": {
     "name":"Lars Kruse",
     "mail":"lars@kvalifik.dk",
     "title":"Chairman of the Board",
     "cell":"+ 45 2087 2530"
   },
+  "elizabeth": {
+    "name":"Elizabeth Tello D'Andrea",
+    "mail":"elizabeth@kvalifik.dk",
+    "title":"UX Design intern",
+    "cell":""
+  },
   "nikolaj": {
     "name":"Nikolaj von Holck",
     "mail":"nikolaj@kvalifik.dk",
     "title":"Tech Lead",
     "cell":"+ 45 2076 3336"
+  },
+  "frederic": {
+    "name":"Frederic Widding",
+    "mail":"frederic@kvalifik.dk",
+    "title":"Frontend Developer",
+    "cell":"+45 2195 4060"
   },
   "riziki": {
     "name":"Riziki Nielsen",
